@@ -13,7 +13,7 @@ ou então utilizar a versão local, clonando e instalando o projeto `https://git
 1. Acessar o MLP, clicar em `POPs sem Pendências`, depois em editar a POP no ícone azul. OBS: Escrever apenas o procedimento em si no Textarea do mini-office. O template e cabeçalho serão criados posteriormente.
 2. Escrever o conteúdo do Passo já aplicando as observações e ações obtidas na primeira etapa.
 3. Reestruturar a imagem: ajustar a nomenclatura de acordo com o passo: PxxIxx.jpg ou png, onde P é o passo e I a imagem (ex: `P01I01.jpg`), comitar no GitHub de imagens `https://github.com/itrac/banco_de_pops` na branch `POPS` segundo a estrutura: `nº da POP/nome_da_imagem` (ex: `0001/P01I01.jpg`).
-4. Inserir a URL da imagem, obtida clicando na imagem, depois em `Download` e copiando o RAW (ex: `https://raw.githubusercontent.com/itrac/banco_de_pops/master/9999/P99I99.png`).
+4. Inserir a URL da imagem, obtida clicando na imagem, depois em `Download` e copiando o RAW (ex: `https://raw.githubusercontent.com/itrac/banco_de_pops/POPS/9999/P99I99.png`).
 
 ### Padrão do texto para inserção das POPs no MLP
 
