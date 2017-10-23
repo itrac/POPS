@@ -6,13 +6,15 @@ Tutorial de como adicionar POPs no MLP
 ### Link do MLP
 
 http://172.16.5.77/
-ou então utilizar a versão local, clonando e instalando o projeto (https://gitlab.com/itrac/mctic/my-little-pops.git)
+ou então utilizar a versão local, clonando e instalando o projeto `https://gitlab.com/itrac/mctic/my-little-pops.git`
 
 ### Passo a passo
 
-1. Escrever o conteúdo do Passo já aplicando as observações e ações
-2. Reestruturar a imagem: ajustar a nomenclatura de acordo com o passo: PxxIxx.jpg ou png, onde P é o passo e I a imagem (ex: `P01I01.jpg`), comitar no GitHub de imagens `https://github.com/itrac/banco_de_pops` na branch `POPS` segundo a estrutura: `nº da POP/nome_da_imagem` (ex: `0001/P01I01.jpg`).
-3. Inserir a URL da imagem, obtida clicando na imagem, depois em `Download` e copiando o RAW (ex: `https://raw.githubusercontent.com/itrac/banco_de_pops/master/9999/P99I99.png`).
+1. Acessar o MLP, clicar em `POPs sem Pendências`, depois em editar a POP no ícone azul
+PS: Escrever apenas o procedimento na Textarea do mini-office
+2. Escrever o conteúdo do Passo já aplicando as observações e ações
+3. Reestruturar a imagem: ajustar a nomenclatura de acordo com o passo: PxxIxx.jpg ou png, onde P é o passo e I a imagem (ex: `P01I01.jpg`), comitar no GitHub de imagens `https://github.com/itrac/banco_de_pops` na branch `POPS` segundo a estrutura: `nº da POP/nome_da_imagem` (ex: `0001/P01I01.jpg`).
+4. Inserir a URL da imagem, obtida clicando na imagem, depois em `Download` e copiando o RAW (ex: `https://raw.githubusercontent.com/itrac/banco_de_pops/master/9999/P99I99.png`).
 
 ### Padrão do texto para inserção das POPs no MLP
 
