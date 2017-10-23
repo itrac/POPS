@@ -17,11 +17,12 @@ ou então utilizar a versão local, clonando e instalando o projeto `https://git
 
 ### Padrão do texto para inserção das POPs no MLP
 
-1. Fonte: Arial
-2. Tamanho: 14
-3. Alinhamento do texto: justificado
-4. Manter os destaques nas palavras que a POP trouxer, como sublinhado e negrito.
-5. Numeração dos passos: de forma manual e em negrito, para que não haja deslocamento do texto.
-6. Observações: fundo laranja (#FAD4B6);
+1. Fonte: Arial;
+2. Tamanho: 14;
+3. Alinhamento do texto: justificado;
+4. Manter os destaques nas palavras que a POP trouxer, como sublinhado e negrito;
+5. Numeração dos passos: fazer de forma manual e em negrito, para que não haja deslocamento do texto no mini-office;
+6. Observações: Toda a frase com marcaço de fundo em laranja (#FAD4B6);
 7. Trechos de código e comandos: fundo preto com letra branca;
 8. Imagens: se não tiver a opção de ativar o centralizado, alinhar a esquerda (padrão);
+9. Qualquer outra característica que a POP tiver e que não estiverem englobadas nos itens acima, consultar o Rafael ou a Laís para que possamos resolver.
