@@ -25,4 +25,4 @@ ou então utilizar a versão local, clonando e instalando o projeto `https://git
 6. Observações: Toda a frase com marcaço de fundo em laranja (#FAD4B6);
 7. Trechos de código e comandos: fundo preto com letra branca;
 8. Imagens: se não tiver a opção de ativar o centralizado, alinhar a esquerda (padrão);
-9. Qualquer outra característica que a POP tiver e que não estiverem englobadas nos itens acima, consultar o Rafael ou a Laís para que possamos resolver.
+9. Qualquer outra característica que a POP que não estiverem englobadas nos itens acima, consultar o Rafael ou a Laís para que possamos resolver.
